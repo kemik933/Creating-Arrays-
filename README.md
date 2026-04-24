@@ -1,3 +1,13 @@
 # Creating-Arrays-
 Creating Arrays of zeros, ones, range, evenly spaced, and random. 
 
+Create two arrays and perform:
+# 1. Element-wise multiplication
+# 2. Add a scalar value to all elements
+# 3. Calculate square roots
+
+
+Given an array, extract:
+# 1. All elements greater than the mean
+# 2. All odd numbers
+# 3. Elements at specific positions
